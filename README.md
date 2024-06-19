@@ -9,7 +9,7 @@ Nesta aplicação, criamos um componente principal (App.js) e um componente secu
 ## Estrutura do Projeto
 
 ```bash
-my-app
+atividade2
 ├── node_modules
 ├── public
 ├── src
